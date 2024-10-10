@@ -65,7 +65,7 @@ function ContactForm(){
             <p>Street:</p>
             <input
             type="text"
-            id="strees"
+            id="street"
             onChange={changeContact}
             />
             <br></br>
